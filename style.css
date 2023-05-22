@@ -56,7 +56,7 @@ html {
   input[type="submit"] {
     background-color: #00ff09;
     color: #000000;
-    border: none;
+    border: solid 1px;
     border-radius: 3px;
     padding: 10px 20px;
     cursor: pointer;
